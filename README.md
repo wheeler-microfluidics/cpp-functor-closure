@@ -1,3 +1,4 @@
+![https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/cpp-functor-closure?branch=master&svg=true](https://ci.appveyor.com/api/projects/status/github/wheeler-microfluidics/cpp-functor-closure?branch=master&svg=true)
 # Cross platform C++ functor to C function pointer conversion #
 
 This C++ library provides a mechanism to *dynamically* convert a C++ functor
